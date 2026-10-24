@@ -391,7 +391,6 @@ The typing feature sends keystrokes to the currently focused application. Select
 **Mohammed Armaan Bakshi**
 
 - GitHub: [@Armaan-2005](https://github.com/Armaan-2005)
-- Project: [Smarty — AI Voice Assistant](https://github.com/Armaan-2005/Smarty---AI-Voice-Assistant)
 
 ---
 
